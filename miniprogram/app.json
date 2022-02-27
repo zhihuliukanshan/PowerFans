@@ -77,7 +77,7 @@
 			},
 			{
 				"pagePath": "projects/A00/calendar/index/calendar_index",
-				"text": "预约日历",
+				"text": "活动日历",
 				"iconPath": "/projects/A00/skin/images/tabbar/day.png",
 				"selectedIconPath": "/projects/A00/skin/images/tabbar/day_cur.png"
 			},
