@@ -48,7 +48,7 @@
 	"window": {
 		"backgroundColor": "#f1f1f1",
 		"backgroundTextStyle": "dark",
-		"navigationBarBackgroundColor": "#A00",
+		"navigationBarBackgroundColor": "#FE2746",
 		"navigationBarTitleText": "粉丝团小程序",
 		"navigationBarTextStyle": "white"
 	},
@@ -56,7 +56,7 @@
 		"custom": false,
 		"backgroundColor": "#fefefe",
 		"color": "#999999",
-		"selectedColor": "#A00",
+		"selectedColor": "#FE2746",
 		"list": [{
 				"pagePath": "projects/A00/default/index/default_index",
 				"text": "首页",
